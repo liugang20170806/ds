@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2015 bravesoft.com.cn
+ * @copyright (c) 2015 shop.gteamei.com
  * @file wechatOauth.php
  * @brief wechat 的oauth协议登录接口
  * @author nswe

@@ -1555,7 +1555,7 @@ defaultOptions = {
 	credits: {
 		enabled: true,
 		text: 'braveEC',
-		href: 'http://www.bravesoft.com.cn',
+		href: 'http://shop.gteamei.com',
 		position: {
 			align: 'right',
 			x: -10,

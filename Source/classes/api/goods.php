@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2011 bravesoft.com.cn
+ * @copyright (c) 2011 shop.gteamei.com
  * @file goods.php
  * @author chendeshan
  * @date 2011-9-30 13:49:22

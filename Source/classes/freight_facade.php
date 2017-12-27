@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2014 bravesoft.com.cn
+ * @copyright Copyright(c) 2014 shop.gteamei.com
  * @file freight_facade.php
  * @author nswe
  * @date 2014/4/18 16:22:33

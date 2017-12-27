@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2015 www.bravesoft.com.cn
+ * @copyright Copyright(c) 2015 shop.gteamei.com
  * @file  unionpay.php
  * @brief 中国银联手机网站支付接口
  * @author dabao

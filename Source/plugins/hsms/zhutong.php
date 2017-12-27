@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2011 bravesoft.com.cn
+ * @copyright (c) 2011 shop.gteamei.com
  * @file zhutong.php
  * @brief **短信发送接口
  * @author nswe

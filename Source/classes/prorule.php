@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2011 bravesoft.com.cn
+ * @copyright (c) 2011 shop.gteamei.com
  * @file ProRule.php
  * @brief 促销规则处理类
  * @author chendeshan

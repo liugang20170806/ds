@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2011 bravesoft.com.cn
+ * @copyright (c) 2011 shop.gteamei.com
  * @file filelog_class.php
  * @brief 文本格式日志
  * @author nswe

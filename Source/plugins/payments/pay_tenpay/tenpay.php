@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2011 bravesoft.com.cn
+ * @copyright Copyright(c) 2011 shop.gteamei.com
  * @file pay_tenpay.php
  * @brief 腾讯财付通插件类
  * @author kane

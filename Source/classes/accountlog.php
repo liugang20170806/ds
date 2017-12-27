@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2015 www.bravesoft.com.cn
+ * @copyright (c) 2015 shop.gteamei.com
  * @file accountlog.php
  * @brief 账户日志管理
  * @author nswe

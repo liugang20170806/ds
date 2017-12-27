@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2016 bravesoft.com.cn
+ * @copyright Copyright(c) 2016 shop.gteamei.com
  * @file _userInfo.php
  * @brief 用户注册登录插件
  * @author nswe

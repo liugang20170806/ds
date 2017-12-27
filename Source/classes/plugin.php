@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2016 bravesoft.com.cn
+ * @copyright Copyright(c) 2016 shop.gteamei.com
  * @file plugin.php
  * @brief 插件核心类
  * @note 观察者模式，注册事件，触发事件

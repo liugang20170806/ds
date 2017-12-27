@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2011 bravesoft.com.cn
+ * @copyright Copyright(c) 2011 shop.gteamei.com
  * @file util.php
  * @brief 公共函数类
  * @author kane

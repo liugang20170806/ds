@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2011 bravesoft.com.cn
+ * @copyright (c) 2011 shop.gteamei.com
  * @file countsum.php
  * @brief 计算购物车中的商品价格
  * @author chendeshan

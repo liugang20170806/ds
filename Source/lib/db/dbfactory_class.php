@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2016 bravesoft.com.cn
+ * @copyright (c) 2016 shop.gteamei.com
  * @file dbfactory.php
  * @brief 数据库工厂类
  * @author chendeshan

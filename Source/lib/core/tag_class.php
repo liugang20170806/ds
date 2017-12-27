@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2010 bravesoft.com.cn
+ * @copyright Copyright(c) 2010 shop.gteamei.com
  * @file tag_class.php
  * @brief 标签解析类文件
  * @author webning

@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2011 bravesoft.com.cn
+ * @copyright Copyright(c) 2011 shop.gteamei.com
  * @file Simple.php
  * @brief
  * @author webning

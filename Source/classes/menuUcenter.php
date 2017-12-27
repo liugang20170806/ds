@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2016 bravesoft.com.cn
+ * @copyright Copyright(c) 2016 shop.gteamei.com
  * @file menuUcenter.php
  * @brief 用户中心菜单管理
  * @author nswe

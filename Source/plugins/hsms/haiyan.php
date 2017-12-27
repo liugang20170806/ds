@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2015 bravesoft.com.cn
+ * @copyright (c) 2015 shop.gteamei.com
  * @file haiyan.php
  * @brief **短信发送接口
  * @author nswe

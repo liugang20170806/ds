@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2016 bravesoft.com.cn
+ * @copyright (c) 2016 shop.gteamei.com
  * @file inline_action.php
  * @brief 控制器内部action
  * @author nswe

@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2009-2011 bravesoft.com.cn
+ * @copyright (c) 2009-2011 shop.gteamei.com
  * @file action.php
  * @brief action 基类文件
  * @author Ben

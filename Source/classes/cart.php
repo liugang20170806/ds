@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2015 bravesoft.com.cn
+ * @copyright (c) 2015 shop.gteamei.com
  * @file cart.php
  * @brief 购物车类库
  * @author chendeshan

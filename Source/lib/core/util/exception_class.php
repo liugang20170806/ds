@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2015 bravesoft.com.cn
+ * @copyright (c) 2015 shop.gteamei.com
  * @file exception_class.php
  * @brief 异常处理
  * @author nswe

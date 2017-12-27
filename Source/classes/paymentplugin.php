@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2011 bravesoft.com.cn
+ * @copyright Copyright(c) 2011 shop.gteamei.com
  * @file paymentplugin.php
  * @brief 支付插件基类
  * @author chendeshan

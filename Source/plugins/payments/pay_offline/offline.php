@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2014 bravesoft.com.cn
+ * @copyright Copyright(c) 2014 shop.gteamei.com
  * @file offline.php
  * @brief 线下支付
  * @author nswe

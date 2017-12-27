@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2011 bravesoft.com.cn
+ * @copyright Copyright(c) 2011 shop.gteamei.com
  * @file interceptor_class.php
  * @brief 内核拦截器，观察者模式，类似框架事件机制
  * @author nswe

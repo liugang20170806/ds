@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2014 bravesoft.com.cn
+ * @copyright (c) 2014 shop.gteamei.com
  * @file other.php
  * @brief 其他api方法
  * @author chendeshan

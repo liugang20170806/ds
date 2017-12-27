@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2011 bravesoft.com.cn
+ * @copyright (c) 2011 shop.gteamei.com
  * @file controller_class.php
  * @brief 控制器类,控制action动作,渲染页面
  * @author chendeshan

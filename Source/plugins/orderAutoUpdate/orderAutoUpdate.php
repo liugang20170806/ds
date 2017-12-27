@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2016 bravesoft.com.cn
+ * @copyright Copyright(c) 2016 shop.gteamei.com
  * @file orderAutoUpdate.php
  * @brief 订单自动更新
  * @notice 未付款取消，发货后自动确认收货

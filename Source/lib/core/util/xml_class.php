@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2010 bravesoft.com.cn
+ * @copyright Copyright(c) 2010 shop.gteamei.com
  * @file xml_class.php
  * @brief 封装XML操作类
  * 主要实现XML快速操作

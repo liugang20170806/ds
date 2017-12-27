@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2010 bravesoft.com.cn
+ * @copyright Copyright(c) 2010 shop.gteamei.com
  * @file iweb.php
  * @brief 引用内核入口文件
  * @author chendeshan

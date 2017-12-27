@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2015 bravesoft.com.cn
+ * @copyright (c) 2015 shop.gteamei.com
  * @file mysqli_class.php
  * @brief mysqli数据库应用
  * @author nswe

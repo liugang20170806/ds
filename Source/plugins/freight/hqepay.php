@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2011 bravesoft.com.cn
+ * @copyright (c) 2011 shop.gteamei.com
  * @file hqepay.php
  * @brief Hqepay的快递查询接口
  * @date 2014-18-18 9:34:18

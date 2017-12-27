@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2015 www.bravesoft.com.cn
+ * @copyright Copyright(c) 2015 shop.gteamei.com
  * @file wap_alipay.php
  * @brief 支付宝插件类[手机网站支付]
  * @author nswe

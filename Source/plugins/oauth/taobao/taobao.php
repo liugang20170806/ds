@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2011 bravesoft.com.cn
+ * @copyright (c) 2011 shop.gteamei.com
  * @file taobao.php
  * @brief taobao的oauth协议登录接口
  * @author chendeshan

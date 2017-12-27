@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2011 bravesoft.com.cn
+ * @copyright (c) 2011 shop.gteamei.com
  * @file request_class.php
  * @brief 处理 $_GET,$_POST 数据
  * @author chendeshan

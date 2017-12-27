@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2014 bravesoft.com.cn
+ * @copyright (c) 2014 shop.gteamei.com
  * @file sendmail.php
  * @brief 邮件发送接口
  * @author chendeshan

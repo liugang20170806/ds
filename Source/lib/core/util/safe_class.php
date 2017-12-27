@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2011 bravesoft.com.cn
+ * @copyright (c) 2011 shop.gteamei.com
  * @file safe_class.php
  * @brief 安全机制session或者cookie数据操作
  * @author chendeshan

@@ -1,5 +1,5 @@
 /**
- * @copyright (c) 2016 bravesoft.com.cn
+ * @copyright (c) 2016 shop.gteamei.com
  * @file form.js
  * @brief 页面表单自动填充数据类库
  * @author nswe

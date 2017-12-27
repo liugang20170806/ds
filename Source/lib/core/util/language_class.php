@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright (c) 2009-2011 bravesoft.com.cn
+ * @copyright (c) 2009-2011 shop.gteamei.com
  * @file language_class.php
  * @brief 语言包类文件
  * @author Ben

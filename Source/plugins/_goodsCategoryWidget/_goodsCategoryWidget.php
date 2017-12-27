@@ -1,6 +1,6 @@
 <?php
 /**
- * @copyright Copyright(c) 2016 bravesoft.com.cn
+ * @copyright Copyright(c) 2016 shop.gteamei.com
  * @file _goodsCategoryWidget.php
  * @brief 商品分类视图插件
  * @author nswe
